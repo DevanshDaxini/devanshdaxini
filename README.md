@@ -6,7 +6,7 @@
 
 <br/>
 
-CS freshman at **UC San Diego**. I've spent the last year building things at the intersection of AI and healthcare — a local LLM triage tool for disaster zones, CNN models for skin cancer detection, and whatever comes next.
+CS at **UC San Diego**. I've spent the last year building things at the intersection of AI and healthcare — a local LLM triage tool for disaster zones, CNN models for skin cancer detection, and whatever comes next.
 
 Most of what I build starts as a problem I couldn't find a clean solution to. I figure it out from there.
 
