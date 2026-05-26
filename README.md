@@ -76,7 +76,7 @@ Most of what I build starts as a problem I couldn't find a clean solution to. I 
 
 <div align="center">
 
-<a href="mailto:devanshdaxini@gmail.com"><img src="https://img.shields.io/badge/devanshdaxini%40gmail.com-0a0a0f?style=for-the-badge&logo=gmail&logoColor=7eaacc" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=devanshdaxini@gmail.com"><img src="https://img.shields.io/badge/devanshdaxini%40gmail.com-0a0a0f?style=for-the-badge&logo=gmail&logoColor=7eaacc" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/devanshdaxini"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=7eaacc" /></a>
 &nbsp;
