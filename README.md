@@ -66,7 +66,7 @@ Most of what I build starts as a problem I couldn't find a clean solution to. I 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devanshdaxini&theme=tokyonight&hide_border=true&background=0a0a0f&ring=4a90d9&fire=7eaacc&currStreakLabel=7eaacc&sideLabels=c9d8e8&dates=c9d8e8&sideNums=e2f0ff&currStreakNum=e2f0ff" />
+<img src="https://github-readme-stats.vercel.app/api?username=DevanshDaxini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=e2f0ff&text_color=c9d8e8&icon_color=7eaacc" />
 
 </div>
 
