@@ -62,16 +62,6 @@ Most of what I build starts as a problem I couldn't find a clean solution to. I 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevanshDaxini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=e2f0ff&text_color=c9d8e8&icon_color=7eaacc" />
-
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
